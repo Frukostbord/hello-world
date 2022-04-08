@@ -1,14 +1,16 @@
 Markdown tests:
 
-# Header 1
-## Header 2
-### Header 3
+# Really big header
+## So-so big header
+### Small header
 
 **Really bold text. Wow**
 
+
+*Code be down here!*
 `if x == 1: return 2`
 
-[google](https://www.google.com)
+[Google](https://www.google.com)
 
 
 Hello there!
